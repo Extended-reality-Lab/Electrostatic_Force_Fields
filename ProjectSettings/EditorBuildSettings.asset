@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: ef8f693fea1e69d40be54305ac87df66
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: ef66e796c0f93bb4d9cfcb5cd7971599
+  - enabled: 1
+    path: Assets/Scenes/task1.unity
+    guid: f0f987fdaeafb0746a9da37be85452fb
+  - enabled: 1
+    path: Assets/Scenes/task2.unity
+    guid: 8b9e80b891e88b64eabc918b3e9a45e4
+  - enabled: 1
+    path: Assets/Scenes/task3.unity
+    guid: 01955e01585a01349bd0f81b36416941
+  - enabled: 1
+    path: Assets/Scenes/freeroam.unity
+    guid: 4c9f00a07719aed459f8ce1572bc6171
+  - enabled: 0
+    path: Assets/Scenes/isoworking.unity
+    guid: 1a38264bb35fc454790dec8b3e5cdec5
+  - enabled: 0
+    path: Assets/Scenes/tester.unity
+    guid: 764e10e1b911bce45b0f86250acce6b0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b679ba86f287264388735c1a7dce370,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c96b88d21805d0e4a933f485e1403c24,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b6af6015259cec4428c55af33aaaf994,
+      type: 2}
